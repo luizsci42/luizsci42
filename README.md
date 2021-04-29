@@ -25,11 +25,25 @@ Hi, i'm Luiz Felipe!
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 -->
-```javascript
-const luizsci42 = {
-  code: [Python, JavaScript, HTML, Java],
-  tools: [NLTK, Scikit-learn, React, Node, Flask, Pandas]
-}
+```python
+class LuizFelipe:
+
+    def __init__(self):
+        self.name = 'Luiz Felipe Souza'
+        self.code = {
+            'frontend': ['HTML', 'JavaScript'],
+            'backend': ['Python', 'Java'],
+            'mobile': ['Android'],
+            'tools': ['NLTK', 'SpaCy', 'Scikit-learn', 'ReactJS', 'NodeJS', 'Flask', 'Pandas', 'Jupyter Notebook','Git & GitHub'],
+            'misc': ['Scrum', 'Kanban', 'XP Programming'],
+            'fields': ['Data Science', 'Natural Language Processing', 'Web development', 'Android development']
+        }
+
+
+if __name__ == '__main__':
+    me = LuizFelipe()
+
+
 ```
 <!--
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
