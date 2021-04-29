@@ -17,7 +17,7 @@ Hi, i'm Luiz Felipe!
 -->
 </em></p>
 
-[![GitHub Luiz Felipe Souza](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/luizsci42)
+[![GitHub Luiz Felipe Souza](https://img.shields.io/github/followers/luizsci42?style=social)](https://github.com/luizsci42)
 [![Linkedin: luiz-felipe-souza](https://img.shields.io/badge/linkedin-luizsci42-blue)](https://www.linkedin.com/in/luiz-felipe-souza-a9a75295/)
 
 
