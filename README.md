@@ -10,7 +10,7 @@ Hi, i'm Luiz Felipe!
 <p><em>Undergraduate student on Computer Science at <a href="http://www.ufs.br/">Universidade Federal de Sergipe</a>
 <!--
 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
--->>
+-->
 </br>Developer-researcher at <a href="https://github.com/ludii-co">Ludiico Labs</a>
 <!--
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
