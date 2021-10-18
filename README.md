@@ -46,7 +46,7 @@ if __name__ == '__main__':
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 -->
 
-Hi there! I'm Luiz Felipe and I'm cunrrently an undegraduate student on Computer Science. 
+    Hi there! I'm Luiz Felipe and I'm cunrrently an undegraduate student on Computer Science. 
     
     I had made some projects at Ludiico Labs, an academic group inside the university, from which i had gained experience on
     Android, FullStack Development, Data Science and Natural Language Processing.
