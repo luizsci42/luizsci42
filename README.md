@@ -30,10 +30,9 @@ class LuizFelipe:
     def __init__(self):
         self.name = 'Luiz Felipe Souza'
         self.code = {
-            'FullStack': ['Python Flask', 'Java/Kotin Spring', 'ReactJS', 'NodeJS'],
-            'mobile': ['Android Jetpack'],
-            'tools': ['Scikit-learn', 'NLTK', 'SpaCy', 'Pandas', 'Jupyter Notebook','Git & GitHub'],
-            'fields': ['Data Science', 'Natural Language Processing', 'FullStack development', 'Android development']
+            'Backend': ['Python Flask'],
+            'tools': ['Scikit-learn', 'Pandas', 'Seaborn', 'PowerBI', 'Jupyter Notebook','Git & GitHub', 'Pentaho'],
+            'fields': ['Data Science', 'Natural Language Processing', 'Data Visualization', 'ML Deployment']
         }
 
 
@@ -46,7 +45,7 @@ if __name__ == '__main__':
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 -->
 
-    Hi there! I'm Luiz Felipe and I'm cunrrently an undegraduate student on Computer Science. 
+    Hi there! I'm Luiz Felipe and I'm cunrrently working as Data Scientist on SrgipeTec and undegraduating on Computer Science at Universidade Federal de Sergipe.
     
     I had made some projects at Ludiico Labs, an academic group inside the university, from which i had gained experience on
     Android, FullStack Development, Data Science and Natural Language Processing.
