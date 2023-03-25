@@ -45,7 +45,7 @@ if __name__ == '__main__':
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 -->
 
-    Hi there! I'm Luiz Felipe and I'm cunrrently working as Data Scientist on SrgipeTec and undegraduating on Computer Science at Universidade Federal de Sergipe.
+    Hi there! I'm Luiz Felipe and I'm cunrrently working as Data Scientist on SergipeTec and undegraduating on Computer Science at Universidade Federal de Sergipe.
     
     I had made some projects at Ludiico Labs, an academic group inside the university, from which i had gained experience on
     Android, FullStack Development, Data Science and Natural Language Processing.
@@ -53,8 +53,9 @@ if __name__ == '__main__':
     In all these projects, i used to be very proactive and criative, collaborating not only with the development, but also
     with sugstons, solutions and new strategies when something went wrong.
     
-    Nowadays i'm studying the kotlin Programmin Language, the Android Jetpack Compose and Spring Framework. I'm also looking for
-    experiences outside the Academic environment.
+    At my job, i work with processes and tools of Business Intelligence, as ETL, reporting with dashboards and training of machine learning models.
+    
+    Nowadays i'm studying the kotlin Programming Language and the Android Jetpack Compose.
         
     My interests include Ethical technology development, Data Science, Creative Writing and Inovation.
     
