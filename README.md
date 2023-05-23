@@ -17,8 +17,10 @@ Hi, i'm Luiz Felipe!
 -->
 </em></p>
 
+<!-- Essas badges podem ser encontradas em: https://shields.io/ -->
 [![GitHub Luiz Felipe Souza](https://img.shields.io/github/followers/luizsci42?style=social)](https://github.com/luizsci42)
 [![Linkedin: luiz-felipe-souza](https://img.shields.io/badge/linkedin-luizsci42-blue)](https://www.linkedin.com/in/luizsci42/)
+[![Docker Hub](https://shields.io/badge/dockerhub-images-important.svg?logo=docker)](https://hub.docker.com/u/luizsci42)
 
 <!-- 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -30,9 +32,9 @@ class LuizFelipe:
     def __init__(self):
         self.name = 'Luiz Felipe Souza'
         self.code = {
-            'Backend': ['Python Flask'],
-            'tools': ['Scikit-learn', 'Pandas', 'Seaborn', 'PowerBI', 'Jupyter Notebook','Git & GitHub', 'Pentaho'],
-            'fields': ['Data Science', 'Natural Language Processing', 'Data Visualization', 'ML Deployment']
+            'fields_of_interest': ['Data Science', 'Natural Language Processing', 'Android Development'],
+            'tools': ['Scikit-learn', 'PowerBI', 'Jupyter Notebook', 'Pentaho', 'Docker'],
+            'Backend': ['Python Flask']           
         }
 
 
