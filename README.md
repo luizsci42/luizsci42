@@ -21,6 +21,7 @@ Hi, i'm Luiz Felipe!
 [![GitHub Luiz Felipe Souza](https://img.shields.io/github/followers/luizsci42?style=social)](https://github.com/luizsci42)
 [![Linkedin: luiz-felipe-souza](https://img.shields.io/badge/linkedin-luizsci42-blue)](https://www.linkedin.com/in/luizsci42/)
 [![Docker Hub](https://shields.io/badge/dockerhub-images-important.svg?logo=docker)](https://hub.docker.com/u/luizsci42)
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue)](https://www.kaggle.com/code/luizfelipesouza/feature-selection)
 
 <!-- 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
