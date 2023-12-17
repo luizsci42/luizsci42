@@ -7,11 +7,13 @@ Hi, i'm Luiz Felipe!
 <!--
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 -->
-<p><em>Undergraduate student on Computer Science at <a href="http://www.ufs.br/">Universidade Federal de Sergipe</a>
+<p><em>
+Business Intelligence Analyst by Sergipe Parque Tecnológico, allocated at Secretaria de Estado da Fazenda
+Undergraduate student on Computer Science at <a href="http://www.ufs.br/">Universidade Federal de Sergipe</a>
 <!--
 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 -->
-</br>Developer-researcher at <a href="https://github.com/ludii-co">Ludiico Labs</a>
+</br>Researcher at <a href="https://github.com/ludii-co">Ludiico Labs</a>
 <!--
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 -->
@@ -33,7 +35,7 @@ class LuizFelipe:
     def __init__(self):
         self.name = 'Luiz Felipe Souza'
         self.code = {
-            'fields_of_interest': ['Data Science', 'Natural Language Processing', 'Android Development'],
+            'fields_of_interest': ['Data Science', 'Natural Language Processing'],
             'tools': ['Scikit-learn', 'PowerBI', 'Jupyter Notebook', 'Pentaho', 'Docker'],
             'Backend': ['Python Flask']           
         }
