@@ -8,7 +8,7 @@ Hi, i'm Luiz Felipe!
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 -->
 <p><em>
-Machine Learning Enginner at Grupo Boticario and Undergraduate student on Computer Science at <a href="http://www.ufs.br/">Universidade Federal de Sergipe</a>. Previous experience as Data Scientist and Business Intelligence Analyst at Secretaria de Estado da Fazenda de Sergipe.
+Data Scientist at Grupo Boticario and Undergraduate student on Computer Science at <a href="http://www.ufs.br/">Universidade Federal de Sergipe</a>. Previous experience as Data Scientist and Business Intelligence Analyst at Secretaria de Estado da Fazenda de Sergipe.
 
 <!--
 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
@@ -50,7 +50,7 @@ if __name__ == '__main__':
 -->
 
 ### My Experience
-    Hi there! I'm Luiz Felipe and I'm cunrrently working as Machine Learning Engineer at Grupo Boticário
+    Hi there! I'm Luiz Felipe and I'm cunrrently working as Data Scientist at Grupo Boticário
     and undegraduating on Computer Science at Universidade Federal de Sergipe.
     
     I have a previous expericence as Data Scientist and Business Intelligence Analyst at Secretaria de 
@@ -75,8 +75,7 @@ if __name__ == '__main__':
     traditional and marginalized epistemologies.
     
 <!--
-At my job, I work with processes and tools of Business Intelligence, as ETL (Extract, Transform, Load),
-reporting with dashboards and training of machine learning models.
+At my job, I work with training of machine learning models, clustering, LLMs, business understanding and so on.
 -->
           
     
